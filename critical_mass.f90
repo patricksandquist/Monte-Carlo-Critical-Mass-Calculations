@@ -14,7 +14,7 @@ PROGRAM CriticalMass
     ! Mass of Uranium-235 in kg
     massU = 1.8E1
     ! Number of starting neutrons
-    numNeutrons = 1000
+    numNeutrons = 1.0E9
     ! Radius of sphere
     R = (3. * massU / (4. * acos(-1.0) * rhoU)) ** (1. / 3.)
     ! Number density of Uranium-235
