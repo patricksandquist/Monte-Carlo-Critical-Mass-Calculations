@@ -1,2 +1,2 @@
 # Monte-Carlo-Critical-Mass-Calculations
-Some simple Monte Carlo simulations for calculating the critical mass of Uranium-235
+Monte Carlo simulations that calculate the critical mass of a pure Uranium-235 sphere.
